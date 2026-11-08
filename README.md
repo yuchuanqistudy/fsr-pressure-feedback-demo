@@ -10,7 +10,7 @@
 
 ![实际按压 FSR 时的 LED 反馈](docs/press-led.jpg)
 
-[观看或下载实物演示视频（MP4）](docs/demo.mp4)
+https://github.com/user-attachments/assets/bb58d39a-5cef-4ef7-9eaf-dc8895689e1e
 
 ![Mac 上运行的 Python 实时曲线](docs/live-visualization.jpg)
 
